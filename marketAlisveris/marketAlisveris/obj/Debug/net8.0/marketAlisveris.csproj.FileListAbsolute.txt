@@ -1,0 +1,42 @@
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.exe
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.deps.json
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.runtimeconfig.json
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.dll
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.pdb
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.AssemblyInfoInputs.cache
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.AssemblyInfo.cs
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.csproj.CoreCompileInputs.cache
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.dll
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\refint\marketAlisveris.dll
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.pdb
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.genruntimeconfig.cache
+C:\Users\bilal\source\repos\marketAlisveris\marketAlisveris\obj\Debug\net8.0\ref\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.exe
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.pdb
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\refint\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.pdb
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Masaüstü\marketAlisveris\marketAlisveris\obj\Debug\net8.0\ref\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.exe
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.deps.json
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.runtimeconfig.json
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\bin\Debug\net8.0\marketAlisveris.pdb
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.AssemblyInfoInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.AssemblyInfo.cs
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\refint\marketAlisveris.dll
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.pdb
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\marketAlisveris.genruntimeconfig.cache
+C:\Users\bilal\OneDrive\Masaüstü\KENDI PROJELERİM\marketAlisveris\marketAlisveris\obj\Debug\net8.0\ref\marketAlisveris.dll
